@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Speedlimit', 'Stopsign', 'Trafficlight']
+
+roboflow:
+  workspace: project-a0jvt
+  project: segmentation-speedlimit-gqsun
+  version: 4
+  license: Private
+  url: https://app.roboflow.com/project-a0jvt/segmentation-speedlimit-gqsun/4

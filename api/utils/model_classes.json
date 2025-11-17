@@ -1,0 +1,7 @@
+{
+  "classes": {
+    "0": "Speedlimit",
+    "1": "Stopsign",
+    "2": "Trafficlight"
+  }
+}
